@@ -1,0 +1,80 @@
+body {
+	background-image: url(regbg5.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+h2 {
+	text-align: center;
+}
+
+.container {
+	text-indent: 35px;
+}
+
+.login-box {
+	margin-top: 50px;
+	min-height: 70vh;
+	float: none;
+}
+
+.login-left {
+	background: rgba(300, 300, 300, 0.5);
+	padding: 90px;
+	width: 2000px;
+	margin: auto;
+}
+
+.login-right {
+	background: #fff;
+	padding: 90px;
+	width: 2000px;
+	margin: auto;
+}
+
+.form-control {
+	width: 500px !important;
+	margin: auto;
+	border:2px solid #DCDCDC !important;
+}
+
+button {
+	background-color: black !important;
+	border: none !important;
+	padding: 5px !important;
+	width: 100px !important;
+}
+
+nav {
+	background-color: black !important;
+	opacity: 0.5;
+	display: flex !important;
+	flex-direction: row !important;
+	justify-content: flex-end !important;
+}
+
+a {
+	font-family: "arial" !important;
+	font-weight: bolder !important;
+	color: white !important;
+	padding: 15px 20px !important;
+	text-decoration: none !important;
+}
+
+a:hover {
+	background-color: gray;
+	transition: 0.5s;
+}
+
+h1 {
+	color: #fff !important;
+	margin-top: 200px !important;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
